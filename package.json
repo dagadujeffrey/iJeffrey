@@ -1,0 +1,23 @@
+{
+  "name": "ijeffrey",
+  "version": "1.0.0",
+  "description": "My Personal Bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dagadujeffrey/iJeffrey.git"
+  },
+  "author": "Jeffrey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dagadujeffrey/iJeffrey/issues"
+  },
+  "homepage": "https://github.com/dagadujeffrey/iJeffrey#readme",
+  "dependencies": {
+    "botbuilder": "^3.9.1",
+    "restify": "^6.0.1"
+  }
+}
